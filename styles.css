@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #1c3881;
-  color: #ffffff;
+  color: #cfcdcd;
 }
 
 
@@ -12,7 +12,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px 50px;
-  background-color:#6c367d;
+  background-color:#b8b4b4;
   box-shadow: 0 4px 10px #ffffff;
 }
 .whatsapp-sticker {
@@ -31,7 +31,7 @@ transform: scale(1.3);
 .whatsapp-sticker .stick-elem {
 width: 100%;
 height: 100%;
-filter: drop-shadow(2px 3px 3px #ffffff);
+filter: drop-shadow(2px 3px 3px #8b2121);
 }
 
 .whatsapp-sticker .stick-elem img {
@@ -47,7 +47,7 @@ width: 100%;
 .logo {
   font-size: 24px;
   font-weight: bold;
-  color: #ffffff;
+  color: #da1c1c;
 }
 
 .logo span {
@@ -158,8 +158,8 @@ nav ul li a:hover {
 }
 
 .services h2 {
-  font-size: 36px;
-  color: #6c367d;
+  font-size: 90px;
+  color: #000000;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 40px;
@@ -182,7 +182,7 @@ nav ul li a:hover {
 }
 
 .service-card h3 {
-  font-size: 24px;
+  font-size: 34px;
   margin-bottom: 15px;
   color: #6c367d; 
 }
@@ -219,7 +219,7 @@ nav ul li a:hover {
   background-color: #fff
 }
 .section h2 {
-  font-size: 36px;
+  font-size: 10px;
   color: #ffffff;
 }
 .section p {
@@ -245,7 +245,7 @@ nav ul li a:hover {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 .card h3 {
-  color: #00aaff;
+  color: #193696;
 }
 .cta {
   background-color: #fff; 
@@ -665,7 +665,7 @@ body {
 
 .services-1:hover {
   transform: translateY(-10px); /* Lift effect */
-  background-color: #00bcd4; /* Highlighted color */
+  background-color: #972222; /* Highlighted color */
 }
 
 .services-1 .icon {
@@ -753,27 +753,27 @@ body {
 
 .contact-info .box:hover {
   transform: translateY(-10px); /* Lift effect on hover */
-  background-color: #00bcd4; /* Accent color on hover */
+  background-color: #e7e7e7; /* Accent color on hover */
   box-shadow: 0 10px 30px rgba(0, 188, 212, 0.4);
 }
 
 .contact-info .icon {
   font-size: 45px;
-  color: #754385;
+  color: #c6b6cc;
   margin-bottom: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 70px;
   width: 70px;
-  background: linear-gradient(45deg, #00bcd4, #007b8a); /* Gradient circle for icon */
+  background: linear-gradient(45deg, #cdd2d3, #cbd0d1); /* Gradient circle for icon */
   border-radius: 50%;
   margin-bottom: 20px;
   transition: background 0.3s ease;
 }
 
 .contact-info .box:hover .icon {
-  background: linear-gradient(45deg, #007b8a, #00bcd4); /* Reverse gradient on hover */
+  background: linear-gradient(45deg, #767b7c, #d5e2e4); /* Reverse gradient on hover */
 }
 
 .contact-info h3 {
@@ -791,7 +791,7 @@ body {
 }
 
 .contact-info a {
-  color: #00bcd4;
+  color: #000fe2;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -813,8 +813,8 @@ body {
 
 .services-1:hover {
   transform: translateY(-10px); /* Lift effect */
-  background-color: #6c367d; /* Highlighted color */
-  box-shadow: 0 10px 30px #6c367d(0, 188, 212, 0.4);
+  background-color: #0f2cd1; /* Highlighted color */
+  box-shadow: 0 10px 30px #c9c8c9(0, 188, 212, 0.4);
 }
 
 .services-1 .icon {
@@ -825,11 +825,11 @@ body {
 }
 
 .services-1:hover .icon {
-  color: #6c367d; /* White icon on hover */
+  color: #e0e0e0; /* White icon on hover */
 }
 
 .desc h3 {
-  color: #6c367d;
+  color: #dedcdf;
   font-size: 22px;
   font-weight: 600;
   margin-top: 10px;
@@ -864,7 +864,7 @@ body {
 /* Contact Section Styling */
 .contact {
   padding: 60px 20px;
-  background-color: #1c3881; /* Darker background for contrast */
+  background-color: #9a64c7; /* Darker background for contrast */
 }
 
 .contact-container {
@@ -874,8 +874,8 @@ body {
 }
 
 .contact h2 {
-  font-size: 36px;
-  color: #fff;
+  font-size: 60px;
+  color: #3a18cf;
   font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 20px;
@@ -883,7 +883,7 @@ body {
 
 .contact p {
   font-size: 18px;
-  color: #b2b2b2;
+  color: #0e0202;
   margin-bottom: 40px;
 }
 
@@ -901,7 +901,7 @@ body {
 
 .input-group label {
   font-size: 16px;
-  color: #6c367d;
+  color: #ffffff;
   margin-bottom: 8px;
 }
 
@@ -920,8 +920,8 @@ body {
 .input-group input:focus,
 .input-group textarea:focus {
   outline: none;
-  border-color: #00bcd4; /* Accent color on focus */
-  background-color: #3c3c3c;
+  border-color: #db20d2; /* Accent color on focus */
+  background-color: #030303;
 }
 
 .input-group textarea {
@@ -929,7 +929,7 @@ body {
 }
 
 .cta-button {
-  background-color: #00bcd4;
+  background-color: #4d0547;
   color: #fff;
   font-size: 18px;
   font-weight: 600;
