@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #121212;
+  background-color: #1c3881;
   color: #ffffff;
 }
 
@@ -12,8 +12,8 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px 50px;
-  background-color: #1e1e1e;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  background-color:#6c367d;
+  box-shadow: 0 4px 10px #ffffff;
 }
 .whatsapp-sticker {
 bottom: 50px;
@@ -31,7 +31,7 @@ transform: scale(1.3);
 .whatsapp-sticker .stick-elem {
 width: 100%;
 height: 100%;
-filter: drop-shadow(2px 3px 3px #00000080);
+filter: drop-shadow(2px 3px 3px #ffffff);
 }
 
 .whatsapp-sticker .stick-elem img {
@@ -97,14 +97,14 @@ nav ul li a:hover {
   align-items: center;
   text-align: center;
   height: 50vh;
-  background: linear-gradient(to right, #1e1e1e, #121212);
+  background: linear-gradient(to right, #ffffff, #ffffff);
   padding: 0 20px;
 }
 
 .hero h1 {
-  font-size: 48px;
+  font-size: 100px;
   margin: 0;
-  color: #ffffff;
+  color: #1c3881;
 }
 
 .hero p {
@@ -131,7 +131,7 @@ nav ul li a:hover {
 .about {
   padding: 80px 50px;
   text-align: center;
-  background-color: #1e1e1e;
+  background-color: #ffffff;
 }
 
 .about .container {
@@ -151,7 +151,7 @@ nav ul li a:hover {
 }
 
 .services {
-  background-color: #1a1a1a; 
+  background-color: #ffffff; 
   color: #fff;
   padding: 60px 20px;
   text-align: center;
@@ -159,7 +159,7 @@ nav ul li a:hover {
 
 .services h2 {
   font-size: 36px;
-  color: #fff;
+  color: #6c367d;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 40px;
@@ -173,7 +173,7 @@ nav ul li a:hover {
 }
 
 .service-card {
-  background-color: #2c2c2c; 
+  background-color: #667fbd; 
   border-radius: 8px;
   padding: 30px;
   text-align: center;
@@ -184,7 +184,7 @@ nav ul li a:hover {
 .service-card h3 {
   font-size: 24px;
   margin-bottom: 15px;
-  color: #00bcd4; 
+  color: #6c367d; 
 }
 
 .service-card p {
@@ -216,7 +216,7 @@ nav ul li a:hover {
 .section {
   padding: 80px 50px;
   text-align: center;
-  background-color: #1e1e1e;
+  background-color: #fff
 }
 .section h2 {
   font-size: 36px;
@@ -237,7 +237,7 @@ nav ul li a:hover {
   margin-top: 30px;
 }
 .card {
-  background-color: #222;
+  background-color: #fff;
   padding: 20px;
   border-radius: 10px;
   width: 300px;
@@ -248,7 +248,7 @@ nav ul li a:hover {
   color: #00aaff;
 }
 .cta {
-  background-color: #1f1f1f; 
+  background-color: #fff; 
   padding: 80px 20px; 
   text-align: center;
 }
@@ -300,7 +300,7 @@ nav ul li a:hover {
   }
 }
 .pricing {
-  background-color: #1f1f1f; 
+  background-color: #fff; 
   padding: 80px 20px; 
   text-align: center;
 }
@@ -332,7 +332,7 @@ nav ul li a:hover {
 }
 
 .pricing-card {
-  background-color: #292929; 
+  background-color: #fff; 
   border-radius: 10px;
   padding: 30px;
   width: 30%;
@@ -404,7 +404,7 @@ nav ul li a:hover {
   }
 }
 .blog {
-  background-color: #33973b; 
+  background-color: #fff; 
   padding: 80px 20px; 
   text-align: center;
 }
@@ -436,7 +436,7 @@ nav ul li a:hover {
 }
 
 .blog-post {
-  background-color: #292929; 
+  background-color: #fff; 
   border-radius: 10px;
   padding: 20px;
   width: 30%;
@@ -495,7 +495,7 @@ nav ul li a:hover {
   }
 }
 .contact {
-  background-color: #1f1f1f;
+  background-color: #fff;
   padding: 80px 20px; 
   text-align: center;
 }
@@ -535,7 +535,7 @@ nav ul li a:hover {
 }
 
 .input-group input, .input-group textarea {
-  background-color: #292929;
+  background-color: #fff;
   color: #fff;
   padding: 10px;
   border: none;
@@ -566,7 +566,7 @@ nav ul li a:hover {
 
 
 .footer {
-  background-color: #292929; 
+  background-color: #fff; 
   padding: 40px 20px;
   text-align: center;
 }
@@ -620,14 +620,14 @@ nav ul li a:hover {
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #121212; 
+  background-color: #fff; 
   color: #ffffff;
 }
 
 
 #services-section {
   padding: 50px 0;
-  background-color: #1f1f1f; 
+  background-color: #fff; 
 }
 
 .heading-section {
@@ -656,7 +656,7 @@ body {
 /* Social Media Icon Styling */
 .services-1 {
   display: block;
-  background-color: #333;
+  background-color: #fff;
   border-radius: 10px;
   padding: 20px;
   text-align: center;
@@ -714,7 +714,7 @@ body {
 /* Contact Section */
 .contact-section {
   padding: 60px 0;
-  background-color: #1a1a1a; /* Darker background for the contact section */
+  background-color: #fff; /* Darker background for the contact section */
 }
 
 .heading-section {
@@ -723,7 +723,7 @@ body {
 
 .heading-section h1 {
   font-size: 50px;
-  color: #ffffff;
+  color: #6c367d;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -743,7 +743,7 @@ body {
 
 /* Contact Info Boxes */
 .contact-info .box {
-  background-color: #2c2c2c; /* Slightly lighter dark background */
+  background-color: #6c367d; /* Slightly lighter dark background */
   border-radius: 15px;
   padding: 25px;
   margin-bottom: 100px;
@@ -759,7 +759,7 @@ body {
 
 .contact-info .icon {
   font-size: 45px;
-  color: #ffffff;
+  color: #754385;
   margin-bottom: 20px;
   display: flex;
   justify-content: center;
@@ -778,7 +778,7 @@ body {
 
 .contact-info h3 {
   font-size: 24px;
-  color: #ffffff;
+  color: #1c3881;
   font-weight: 600;
   margin-bottom: 15px;
 }
@@ -797,7 +797,7 @@ body {
 }
 
 .contact-info a:hover {
-  color: #ffffff; /* White text on hover */
+  color: #1c3881; /* White text on hover */
 }
 
 /* Social Media Icons Section */
@@ -813,23 +813,23 @@ body {
 
 .services-1:hover {
   transform: translateY(-10px); /* Lift effect */
-  background-color: #00bcd4; /* Highlighted color */
-  box-shadow: 0 10px 30px rgba(0, 188, 212, 0.4);
+  background-color: #6c367d; /* Highlighted color */
+  box-shadow: 0 10px 30px #6c367d(0, 188, 212, 0.4);
 }
 
 .services-1 .icon {
   font-size: 50px;
-  color: #ffffff;
+  color: #1c3881#6c367d;
   margin-bottom: 15px;
   transition: color 0.3s ease;
 }
 
 .services-1:hover .icon {
-  color: #ffffff; /* White icon on hover */
+  color: #6c367d; /* White icon on hover */
 }
 
 .desc h3 {
-  color: #ffffff;
+  color: #6c367d;
   font-size: 22px;
   font-weight: 600;
   margin-top: 10px;
@@ -864,7 +864,7 @@ body {
 /* Contact Section Styling */
 .contact {
   padding: 60px 20px;
-  background-color: #1a1a1a; /* Darker background for contrast */
+  background-color: #1c3881; /* Darker background for contrast */
 }
 
 .contact-container {
@@ -901,7 +901,7 @@ body {
 
 .input-group label {
   font-size: 16px;
-  color: #fff;
+  color: #6c367d;
   margin-bottom: 8px;
 }
 
@@ -910,8 +910,8 @@ body {
   width: 100%;
   padding: 12px;
   border-radius: 8px;
-  border: 1px solid #333;
-  background-color: #2c2c2c;
+  border: 1px solid #fff;
+  background-color: #fff;
   color: #fff;
   font-size: 16px;
   transition: all 0.3s ease;
